@@ -278,6 +278,7 @@
       "actionHook": "object|string",
       "onHoldHook": "object|string",
       "answerOnBridge": "boolean",
+      "exitMediaPath": "boolean",
       "callerId": "string",
       "callerName": "string",
       "confirmHook": "object|string",
